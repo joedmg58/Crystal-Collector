@@ -1,2 +1,2 @@
-# unit-4-game
-Game for week 4 homework
+# Crystal Collector Game
+Crystal Collector is a math guessing game.
